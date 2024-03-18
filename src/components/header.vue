@@ -18,7 +18,6 @@
             </div>
         </div>
     </div>
-
 </template>
 <script setup>
 import "@/src/assets/scss/components/_header.scss"
