@@ -27,7 +27,7 @@ to finish  </p>
                         </div> 
                 </div>
                 <div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-                    <img src="../assets/images/know-us/pic.PNG" alt="modren" width="auto" height="auto" class="object-fit-contain">
+                    <img src="../assets/images/know-us/pic.PNG" alt="modren" width="100%" height="auto" class="object-fit-contain">
 
                 </div>
             </div>
