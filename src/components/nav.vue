@@ -23,7 +23,7 @@
                     <a href="#" class="fa fa-instagram"></a>
                     <a href="#" class="fa fa-pinterest"></a>
 
-                    <ul class="navbar-nav justify-content-end flex-grow-1 pt-2 ">
+                    <ul class="navbar-nav justify-content-center flex-grow-1 pt-3 ">
                         <li class="nav-item mx-0 mx-lg-2">
                             <a class="nav-link   " href="#">Home</a>
                         </li>
