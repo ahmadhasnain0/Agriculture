@@ -4,7 +4,7 @@
             <div class="row ">
                 <div class="col-12  my-4 ">
                     <p class="text-primary mb-1 text-center ">Our Services</p>
-                    <h1 class="text-center mb-5">What We Offer</h1>
+                    <h1 class="text-center mb-5 fw-bold">What We Offer</h1>
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4 d-flex justify-content-center">
                         <div class="col">
                             <div class="card h-100">

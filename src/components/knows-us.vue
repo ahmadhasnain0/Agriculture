@@ -1,10 +1,10 @@
 <template>
-    <div class="container-fluid bg-white px-0  ">
+    <div class="container-fluid bg-white px-0 pt-0 pt-lg-5 ">
         <div class="container  py-5 px-3 ">
             <div class="row">
                 <div class="col-12 col-lg-6">
                     <p class="text-primary mb-1 ">Get to know us</p>
-                    <h1>Leader in Agriculture
+                    <h1 class="fw-bold">Leader in Agriculture
                         Market</h1>
                     <p class="f-14 text-light-gray">There are many variations of passages of Lorem Ipsum available
                         majority have suffered alteration in some form, by injected humour,
