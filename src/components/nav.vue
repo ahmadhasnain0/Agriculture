@@ -22,7 +22,6 @@
                     <a href="#" class="fa fa-twitter"></a>
                     <a href="#" class="fa fa-instagram"></a>
                     <a href="#" class="fa fa-pinterest"></a>
-
                     <ul class="navbar-nav justify-content-center flex-grow-1 pt-3 ">
                         <li class="nav-item mx-0 mx-lg-2">
                             <a class="nav-link   " href="#">Home</a>
@@ -46,25 +45,20 @@
                             <a class="nav-link  " href="#">Contact </a>
                         </li>
                         <li class=" nav-item mx-0 mx-lg-2 d-none-contact">
-
                             <img src="../assets/images/nav/search.png" alt="search" width="auto" height="auto"
                                 class="object-fit-contain float-start  pt-2">
                         </li>
                         <li class="nav-item mx-0 mx-lg-2 d-none-contact">
-
                             <img src="../assets/images/nav/cart.png" alt="search" width="auto" height="auto"
                                 class="object-fit-contain float-start  pt-2">
                         </li>
                         <li class="nav-item mx-0 mx-lg-2 d-none-contact ">
-
                             <img src="../assets/images/nav/contact.png" alt="search" width="auto" height="auto"
                                 class="object-fit-contain float-start me-2">
-                                <p class="text-white f-12 float-left text-nowrap mb-0">Call Anytime</p>
-                                <p class="text-white f-12 float-left text-nowrap">+ 98 (000) - 9630</p>
-
+                            <p class="text-white f-12 float-left text-nowrap mb-0">Call Anytime</p>
+                            <p class="text-white f-12 float-left text-nowrap">+ 98 (000) - 9630</p>
                         </li>
                     </ul>
-
                 </div>
             </div>
         </div>

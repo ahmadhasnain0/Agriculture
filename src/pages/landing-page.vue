@@ -4,6 +4,7 @@
    <Services />
    <RecentWork/>
    <Market/>
+   <Team/>
 </template>
 
 <script setup>
@@ -12,4 +13,5 @@ import KnowUs from "../components/knows-us.vue"
 import Services from "../components/our-services.vue"
 import RecentWork from "../components/recent-work.vue"
 import Market from "../components/market.vue"
+import Team from "../components/team.vue"
 </script>
