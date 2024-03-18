@@ -1,0 +1,23 @@
+:root {
+    --primary: #EEC044;
+    --secondary: #16205F;
+    --ternary: #FFF856;
+    --light-gray: rgb(233, 227, 220);
+}
+
+// background-colors
+
+.bg-primary {
+    background-color: var(--primary) !important;
+}
+
+.bg-secondary {
+    background-color: var(--secondary) !important;
+}
+
+.bg-ternary {
+    background-color: var(--ternary) !important;
+}
+.text-primary{
+    color:var(--primary)!important;
+}

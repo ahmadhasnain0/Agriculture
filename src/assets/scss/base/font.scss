@@ -1,0 +1,102 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+* {
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Poppins', sans-serif;
+}
+
+  // font size
+ 
+  .f-12{
+    font-size: 12px;
+  }
+  .f-14{
+    font-size: 14px;
+  }
+  .f-18{
+    font-size: 18px;
+  }
+  .f-52{
+    font-size: 52px;
+  }
+  .f-62{
+    font-size: 62px;
+  }
+  .f-170{
+    font-size: 170px;
+  }
+  
+  @media screen and (max-width:1200px) {
+    .f-170{
+      font-size: 140px;
+    }
+    .f-62{
+      font-size: 52px;
+    }
+    .f-52{
+      font-size: 48px;
+    }
+    .f-18{
+      font-size: 16px;
+    }
+  }
+
+  @media screen and (max-width:991px) {
+    .f-170{
+      font-size: 105px;
+    }
+    .f-62{
+      font-size: 48px;
+    }
+    .f-18{
+      font-size: 18px;
+    }
+  }
+  @media screen and (max-width:767px) {
+    .f-170{
+      font-size: 80px;
+    }
+    .f-62{
+      font-size: 38px;
+    }
+  }
+  @media screen and (max-width:576px) {
+    .f-170{
+      font-size: 65px;
+    }
+    .f-52{
+      font-size: 44px;
+    }
+   
+  }
+  @media screen and (max-width:476px) {
+    .f-170{
+      font-size: 55px;
+    }
+    .f-62{
+      font-size: 34px;
+    }
+    .f-52{
+      font-size: 36px;
+    }
+    .f-18{
+      font-size: 16px;
+    }
+  }
+  @media screen and (max-width:392px) {
+    .f-170{
+      font-size: 42px;
+    }
+    .f-62{
+      font-size: 28px;
+    }
+    .f-52{
+      font-size: 30px;
+    }
+    .f-18{
+      font-size: 14px;
+    }
+    
+  }
