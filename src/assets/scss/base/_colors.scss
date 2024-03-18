@@ -2,7 +2,7 @@
     --primary: #EEC044;
     --secondary: #4BAF47;
     --ternary: #FFF856;
-    --light-gray: rgb(233, 227, 220);
+    --light-gray: #878680;
 }
 
 // background-colors
@@ -20,4 +20,11 @@
 }
 .text-primary{
     color:var(--primary)!important;
+}
+
+.text-secondary{
+color: var(--secondary)!important;
+}
+.text-light-gray{
+    color:var(--light-gray)
 }
