@@ -42,10 +42,10 @@
                         <li class="nav-item mx-0 mx-lg-2">
                             <a class="nav-link  " href="#">Shop</a>
                         </li>
-                        <li class="nav-item mx-0 mx-lg-2">
+                        <li class="nav-item mx-0 mx-lg-2 ">
                             <a class="nav-link  " href="#">Contact </a>
                         </li>
-                        <li class="nav-item mx-0 mx-lg-2 d-none-contact">
+                        <li class=" nav-item mx-0 mx-lg-2 d-none-contact">
 
                             <img src="../assets/images/nav/search.png" alt="search" width="auto" height="auto"
                                 class="object-fit-contain float-start  pt-2">
@@ -55,10 +55,13 @@
                             <img src="../assets/images/nav/cart.png" alt="search" width="auto" height="auto"
                                 class="object-fit-contain float-start  pt-2">
                         </li>
-                        <li class="nav-item mx-0 mx-lg-2 d-none-contact">
+                        <li class="nav-item mx-0 mx-lg-2 d-none-contact ">
 
                             <img src="../assets/images/nav/contact.png" alt="search" width="auto" height="auto"
-                                class="object-fit-contain float-start ">
+                                class="object-fit-contain float-start me-2">
+                                <p class="text-white f-12 float-left text-nowrap mb-0">Call Anytime</p>
+                                <p class="text-white f-12 float-left text-nowrap">+ 98 (000) - 9630</p>
+
                         </li>
                     </ul>
 
