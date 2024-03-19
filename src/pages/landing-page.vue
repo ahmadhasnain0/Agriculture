@@ -9,6 +9,7 @@
    <News/>
    <Contact/>
    <Partners />
+   <Footer/>
 </template>
 
 <script setup>
@@ -22,5 +23,6 @@ import Eco from "../components/ecoFriendly.vue"
 import News from "../components/news.vue"
 import Contact from "../components/contact.vue"
 import Partners from "../components/partners.vue"
+import Footer from "../components/footer.vue"
 
 </script>

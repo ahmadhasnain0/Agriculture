@@ -3,7 +3,7 @@
         <div class="container  py-5 px-3 ">
             <div class="row">
                 <div class="col-12 col-lg-6">
-                    <p class="text-primary mb-1 ">Get to know us</p>
+                    <p class="text-primary mb-1 font-italic fw-bold">Get to know us</p>
                     <h1 class="fw-bold">Leader in Agriculture
                         Market</h1>
                     <p class="f-14 text-light-gray">There are many variations of passages of Lorem Ipsum available

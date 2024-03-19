@@ -8,7 +8,7 @@
                         Natural Products
                     </h1>
                     <h1 class="w-100 text-white">
-                        For Lovers of <span class="text-primary">Healthy</span>
+                        For Lovers of <span class="text-primary ">Healthy</span>
                     </h1>
                     <h1 class="w-100 text-white">
                         Organic Food

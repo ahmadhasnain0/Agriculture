@@ -7,7 +7,7 @@
                         class="object-fit-contain">
                 </div>
                 <div class="col-12 col-lg-6 py-5 bg-contact">
-                    <p class="text-primary mb-1  ">Contact us</p>
+                    <p class="text-primary mb-1 font-italic fw-bold ">Contact us</p>
                     <h1 class=" mb-5 fw-bold">Write a Message</h1>
                     <Form>
                         <div class="row mb-4 z-2">

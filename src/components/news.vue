@@ -3,7 +3,7 @@
         <div class="container  py-5 px-3 ">
             <div class="row ">
                 <div class="col-12  my-4 ">
-                    <p class="text-primary mb-1 text-center ">From the Blog</p>
+                    <p class="text-primary mb-1 text-center font-italic fw-bold ">From the Blog</p>
                     <h1 class="text-center mb-5 fw-bold">News & Articles</h1>
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4 d-flex justify-content-center">
                         <div class="col h-100">

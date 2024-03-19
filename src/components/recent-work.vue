@@ -3,7 +3,7 @@
         <div class="container  py-5 px-3 ">
             <div class="row ">
                 <div class="col-12 col-lg-6 ">
-                    <p class="text-primary mb-1 ">Our Recent Work</p>
+                    <p class="text-primary mb-1  font-italic fw-bold">Our Recent Work</p>
                     <h1 class="fw-bold">Recently Completed
 Projects</h1>
                  
