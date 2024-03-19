@@ -7,6 +7,7 @@
    <Team/>
    <Eco />
    <News/>
+   <Contact/>
 </template>
 
 <script setup>
@@ -18,4 +19,5 @@ import Market from "../components/market.vue"
 import Team from "../components/team.vue"
 import Eco from "../components/ecoFriendly.vue"
 import News from "../components/news.vue"
+import Contact from "../components/contact.vue"
 </script>
