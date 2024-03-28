@@ -10,7 +10,7 @@
                             <div class="card border-0 h-100">
                                 <img src="../assets/images/team/person1.png" class=" object-fit-contain" width="100%" alt="sercices1" />
                                <div class="d-flwx align-self-end bg-white rounded px-5 py-3 team-card">
-                                <img src="../assets/images/team/share.png" alt="share pic" width="auto" height="auto" class="share position-absolute object-fit-contain">
+                                <img src="../../src/assets/images/team/share.png" alt="share pic" width="auto" height="auto" class="share position-absolute object-fit-contain">
                                 <h5 class="text-center fw-bold">Kevin Smith</h5>
                                 <p class="text-end mb-0 text-light-gray">Farmer</p>
                                </div>
@@ -21,7 +21,7 @@
                                 <img src="../assets/images/team/person2.png" class=" object-fit-contain" width="100%"
                                     alt="Palm Springs Road" />
                                     <div class="d-flwx align-self-end bg-white rounded px-5 py-3 team-card">
-                                <img src="../assets/images/team/share.png" alt="share pic" width="auto" height="auto" class="share position-absolute object-fit-contain">
+                                <img src="../../src/assets/images/team/share.png" alt="share pic" width="auto" height="auto" class="share position-absolute object-fit-contain">
                                 <h5 class="text-center fw-bold">Jessica Brown</h5>
                                 <p class="text-end mb-0 text-light-gray">Farmer</p>
                                </div>
@@ -32,7 +32,7 @@
                                 <img src="../assets/images/team/person3.png" class=" object-fit-contain" width="100%"
                                     alt="Los Angeles Skyscrapers" />
                                     <div class="d-flwx align-self-end bg-white rounded px-5 py-3 team-card">
-                                <img src="../assets/images/team/share.png" alt="share pic" width="auto" height="auto" class="share position-absolute object-fit-contain">
+                                <img src="../../src/assets/images/team/share.png" alt="share pic" width="auto" height="auto" class="share position-absolute object-fit-contain">
                                 <h5 class="text-center fw-bold">David Martin</h5>
                                 <p class="text-end mb-0 text-light-gray">Farmer</p>
                                </div>
