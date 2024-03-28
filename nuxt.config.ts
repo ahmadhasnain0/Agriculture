@@ -7,5 +7,7 @@ export default {
     { src: '~/plugins/bootstrap.js', mode: 'client' }
   ],
 
-
+  static: {
+    prefix: false
+  }
 }
