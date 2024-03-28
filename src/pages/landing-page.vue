@@ -4,7 +4,7 @@
    <Services />
    <RecentWork/>
    <Market/>
-   <!-- <Team/> -->
+   <Team/>
    <Eco />
    <News/>
    <Contact/>
