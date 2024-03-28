@@ -19,7 +19,7 @@ export default {
               esModule: false,
               name: '[name].[ext]',
               outputPath: 'assets/images/team',
-              publicPath: '/_nuxt/assets/images/team',
+              publicPath: '/_nuxt/src/assets/images/',
             },
           },
         ],
