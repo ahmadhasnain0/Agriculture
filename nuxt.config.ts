@@ -8,22 +8,18 @@ export default {
   ],
 
   build: {
+    /*
+     ** You can extend webpack config here
+     */
     extend(config, ctx) {
-      // Add loader for images
+      // Add rules for processing images
       config.module.rules.push({
         test: /\.(png|jpe?g|gif|svg)$/i,
-        use: [
-          {
-            loader: 'file-loader',
-            options: {
-              esModule: false,
-              name: '[name].[ext]',
-              outputPath: 'assets/images/team',
-              publicPath: '/_nuxt/src/assets/images/',
-            },
-          },
-        ],
-      })
-    }
-  }
+        loader: 'file-loader',
+        options: {
+          name: '[path][name].[ext]',
+        },
+      });
+    },
+  },
 }
