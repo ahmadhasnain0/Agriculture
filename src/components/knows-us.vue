@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-                    <img src="../assets/images/know-us/pic.PNG" alt="modren" width="100%" height="auto"
+                    <img src="../assets/images/know-us/pic.jpg" alt="modren" width="100%" height="auto"
                         class="object-fit-contain">
                 </div>
             </div>
