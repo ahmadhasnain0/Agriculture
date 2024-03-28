@@ -1,7 +1,11 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
-export default defineNuxtConfig({
-  devtools: { enabled: false },
-  css: ["bootstrap/dist/css/bootstrap.min.css"],
 
-  
-})
+export default {
+
+  css: [
+    'bootstrap/dist/css/bootstrap.min.css' 
+  ],
+
+  plugins: [
+    { src: '~/plugins/bootstrap.js', mode: 'client' } 
+  ],
+}
